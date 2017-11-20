@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 75bf8439b9a35f64e8433418c462c6af
+timeCreated: 1511034048
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sword
+    21300002: torso_up
+    21300004: arm_top
+    21300006: hand
+    21300008: weald_witch.sprite.idle_4
+    21300010: arm2
+    21300012: head
+    21300014: leg
+    21300016: arm_bot
+    21300018: bat
+    21300020: shadow
+    21300022: weald_witch.sprite.idle_11
+    21300024: boot
+    21300026: torso_bot
+    21300028: neck
+    21300030: hair
+    21300032: weald_witch.sprite.idle_16
+    21300034: foot
+    21300036: wing
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sword
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 273
+        width: 619
+        height: 402
+      alignment: 9
+      pivot: {x: 0.13638899, y: 0.8752446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: torso_up
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 546
+        width: 107
+        height: 146
+      alignment: 9
+      pivot: {x: 0.8580436, y: 0.7214017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arm_top
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 664
+        width: 96
+        height: 46
+      alignment: 9
+      pivot: {x: 0.100930534, y: 0.68218464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hand
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 637
+        width: 42
+        height: 67
+      alignment: 9
+      pivot: {x: 0.6710292, y: 0.87524503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: weald_witch.sprite.idle_4
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 637
+        width: 49
+        height: 60
+      alignment: 9
+      pivot: {x: 0.8420585, y: 0.120884195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arm2
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 531
+        width: 94
+        height: 130
+      alignment: 9
+      pivot: {x: 0.35990095, y: 0.06716309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 552
+        width: 72
+        height: 83
+      alignment: 9
+      pivot: {x: 0.33372158, y: 0.18266793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leg
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 362
+        width: 77
+        height: 183
+      alignment: 9
+      pivot: {x: 0.29787377, y: 0.92523825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arm_bot
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 458
+        width: 125
+        height: 71
+      alignment: 9
+      pivot: {x: 0.16478124, y: 0.7697943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bat
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 498
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shadow
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 3
+        width: 61
+        height: 357
+      alignment: 9
+      pivot: {x: 0.107471906, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: weald_witch.sprite.idle_11
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 323
+        width: 129
+        height: 133
+      alignment: 9
+      pivot: {x: 0.9361922, y: 0.941077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boot
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 323
+        width: 55
+        height: 173
+      alignment: 9
+      pivot: {x: 0.47823375, y: 0.65916663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: torso_bot
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 174
+        width: 191
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: neck
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 277
+        width: 52
+        height: 43
+      alignment: 9
+      pivot: {x: 0.84534866, y: 0.5556846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hair
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 2
+        width: 188
+        height: 170
+      alignment: 9
+      pivot: {x: 0.8693516, y: 0.8450782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: weald_witch.sprite.idle_16
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 161
+        width: 24
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: foot
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 93
+        width: 62
+        height: 66
+      alignment: 9
+      pivot: {x: 0.345522, y: 0.80837226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wing
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 2
+        width: 55
+        height: 89
+      alignment: 9
+      pivot: {x: 0.93534935, y: 0.9439089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
